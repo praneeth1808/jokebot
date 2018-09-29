@@ -1,0 +1,16 @@
+{
+  "name": "jokebot",
+  "version": "1.0.0",
+  "description": "Trail a joke bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0",
+    "xregexp": "3.1.1"
+  }
+}
